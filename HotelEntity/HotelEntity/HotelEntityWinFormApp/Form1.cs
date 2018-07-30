@@ -66,22 +66,22 @@ namespace HotelEntityWinFormApp
             //    }
             //}
 
-            
 
-            foreach (var item in model)
-            {
-                
 
-                foreach (var guest in item.GuestInformation)
-                {
-                    rtbx1.Text = guest.GuestName;
-                }
-            }
-            
-            
-            //dgwBooking.DataSource = db.BookingInformation.ToList();
-            //dgwGuest.DataSource = db.GuestInformation.ToList();
-            //dgwPayment.DataSource = db.Payments.ToList();
+            //foreach (var item in model)
+            //{
+
+
+            //    foreach (var guest in item.GuestInformation)
+            //    {
+            //        rtbx1.Text = guest.GuestName;
+            //    }
+            //}
+
+
+            dgwBooking.DataSource = db.BookingInformation.ToList();
+            dgwGuest.DataSource = db.GuestInformation.ToList();
+            dgwPayment.DataSource = db.Payments.ToList();
         }
 
         private void Form1_Load(object sender, EventArgs e)
