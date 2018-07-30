@@ -13,18 +13,3 @@ C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\Hot
 C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csprojAssemblyReference.cache
 C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csproj.CoreCompileInputs.cache
 C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csproj.CopyComplete
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\HotelEntity.dll.config
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\HotelEntity.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\HotelEntity.pdb
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\EntityFramework.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\EntityFramework.SqlServer.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\EntityFramework.xml
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\bin\Debug\EntityFramework.SqlServer.xml
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csprojAssemblyReference.cache
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.Migrations.Installation.resources
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.Migrations.AddedForeignKey.resources
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csproj.GenerateResource.cache
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csproj.CoreCompileInputs.cache
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.csproj.CopyComplete
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntity\obj\Debug\HotelEntity.pdb

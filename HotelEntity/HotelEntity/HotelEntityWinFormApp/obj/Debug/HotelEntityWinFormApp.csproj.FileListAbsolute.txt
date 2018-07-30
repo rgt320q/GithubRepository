@@ -16,21 +16,3 @@ C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\Hot
 C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csprojAssemblyReference.cache
 C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csproj.CoreCompileInputs.cache
 C:\Users\cetin\Documents\Visual Studio 2015\Projects\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csproj.CopyComplete
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\HotelEntityWinFormApp.exe.config
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\HotelEntityWinFormApp.exe
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\HotelEntityWinFormApp.pdb
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\EntityFramework.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\EntityFramework.SqlServer.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\HotelEntity.dll
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\HotelEntity.pdb
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\HotelEntity.dll.config
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\EntityFramework.xml
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\bin\Debug\EntityFramework.SqlServer.xml
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csprojAssemblyReference.cache
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.Form1.resources
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.Properties.Resources.resources
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csproj.GenerateResource.cache
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csproj.CoreCompileInputs.cache
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.csproj.CopyComplete
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.exe
-D:\GithubRepository\HotelEntity\HotelEntity\HotelEntityWinFormApp\obj\Debug\HotelEntityWinFormApp.pdb
